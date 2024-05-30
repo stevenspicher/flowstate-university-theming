@@ -1,0 +1,105 @@
+// SansSerif
+@font-face {
+  font-family: 'Rubic';
+  src: url('#{$static-path}/fonts/Rubic-Light.ttf') format('truetype');
+  font-weight: 300;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: 'Rubic';
+  src:
+    url('#{$static-path}/fonts/Rubic-LightItalic.ttf') format('truetype');
+  font-weight: 300;
+  font-style: italic;
+}
+
+@font-face {
+  font-family: 'Rubic';
+  src:
+    url('#{$static-path}/fonts/Rubic-Regular.ttf') format('truetype');
+  font-weight: 400;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: 'Rubic';
+  src:
+    url('#{$static-path}/fonts/Rubic-Italic.ttf') format('truetype');
+  font-weight: 400;
+  font-style: italic;
+}
+
+@font-face {
+  font-family: 'Rubic';
+  src:
+          url('#{$static-path}/fonts/Rubic-Black.ttf') format('truetype');
+  font-weight: 400;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: 'Rubic';
+  src:
+          url('#{$static-path}/fonts/Rubic-BlackItalic.ttf') format('truetype');
+  font-weight: 400;
+  font-style: italic;
+}
+
+@font-face {
+  font-family: 'Rubic';
+  src:
+    url('#{$static-path}/fonts/Rubic-Medium.ttf') format('truetype');
+  font-weight: 600;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: 'Rubic';
+  src:
+    url('#{$static-path}/fonts/Rubic-MediumItalic.ttf') format('truetype');
+  font-weight: 600;
+  font-style: italic;
+}
+
+@font-face {
+  font-family: 'Rubic';
+  src:
+    url('#{$static-path}/fonts/Rubic-Bold.ttf') format('truetype');
+  font-weight: 700;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: 'Rubic';
+  src:
+    url('#{$static-path}/fonts/Rubic-BoldItalic.ttf') format('truetype');
+  font-weight: 700;
+  font-style: italic;
+}
+
+
+@font-face {
+  font-family: 'Termina';
+  src:
+    url('#{$static-path}/fonts/Termina-Light.otf') format('truetype');
+  font-weight: 400;
+  font-style: italic;
+}
+
+@font-face {
+  font-family: 'Termina';
+  src:
+    url('#{$static-path}/fonts/Termina-Regular.otf') format('truetype');
+  font-weight: 600;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: 'Termina';
+  src:
+    url('#{$static-path}/fonts/termina-black.otf') format('truetype');
+  font-weight: 700;
+  font-style: normal;
+}
+

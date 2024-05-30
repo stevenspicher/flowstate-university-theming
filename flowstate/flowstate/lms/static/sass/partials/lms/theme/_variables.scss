@@ -1,0 +1,25 @@
+$primary: #452C56;
+$primary-light: #E4E4E4;
+
+// Theme fonts
+$font-family-title: 'Open Sans', sans-serif;
+$header-font: 'Termina';
+
+$f-sans-serif: 'Termina','Helvetica Neue', Helvetica, Arial, sans-serif;
+@import url('https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700;800&display=swap');
+// Initialize the Open edX Bootstrap theme
+@import 'edx-bootstrap/sass/open-edx/theme';
+
+$drak: #2A4949;
+$light-drak: #8CB1AB;
+$fs-dark: #261730;
+$fs-purple: #452C56;
+$fs-green: #2A4949;
+$fs-light-green: #8CB1AB;
+
+$black: #161616;
+$dark-grey: #2D2D2D;
+$light-grey: #7B7B7B;
+$white: #E4E4E4;
+
+
